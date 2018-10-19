@@ -1,0 +1,32 @@
+int x;
+int y;
+int z;
+x=y;
+if(x==y)
+z=x;
+
+int Compila;
+int Paso;
+int NoCompila;
+int NoPaso;
+int Materia;
+int Rc;
+Compila=Paso;
+if(Compila==Paso)
+Materia=Paso;
+while(Compila==Paso)
+Materia=Paso;
+if(NoCompila==NoPaso)
+Materia=Rc;
+
+boolean a;
+boolean b;
+int d;
+int e;
+int f;
+a=b;
+d=e+f;
+
+
+
+
